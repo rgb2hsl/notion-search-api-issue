@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const notionToken = "secret_z1BsRMegzscnHqlPXcfC5RFs7OkcpEPhYPZJ52mHQZA";
+const notionToken = "your notion token";
 
 const options = {
     method: 'post',
