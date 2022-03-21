@@ -2,6 +2,7 @@ import axios from "axios";
 
 const notionToken = "your notion token";
 
+// as described on https://developers.notion.com/reference/post-search
 const options = {
     method: 'post',
     url: 'https://api.notion.com/v1/search',
